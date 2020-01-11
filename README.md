@@ -1,4 +1,4 @@
 # Calculator-React
 
 Calculator App 
-Web technoligies used : HTML, CSS, React JS
+Web technologies used : HTML, CSS, React JS
